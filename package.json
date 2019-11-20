@@ -2,6 +2,7 @@
 	"name": "todo-hooks",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://marcreativo.github.io/todo-hooks-web/",
 	"dependencies": {
 		"@material-ui/core": "^4.5.2",
 		"node-sass": "^4.13.0",
